@@ -302,3 +302,5 @@ For support or questions:
 ---
 
 **Note**: This is a frontend-only portfolio website. All data is stored locally in the browser using localStorage. For production use with a backend, additional server-side implementation would be required. 
+#   p r e s o n a l - p r o f i l e - f r o n t - e n d  
+ 

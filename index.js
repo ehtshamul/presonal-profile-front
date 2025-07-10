@@ -1,12 +1,12 @@
 // Static data for projects
 const projects = [
     {
-        title: "E-Commerce Platform",
-        description: "A full-stack e-commerce platform built with React and Node.js",
+        title: "Welcome to my portfolio",
+        Description: "Welcome to my portfolio! I'm a passionate MERN stack developer creating responsive, user-friendly web applications. Explore my projects, skills, and experience — let's build something amazing together.",
         imageUrl: "https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&w=600",
         technologies: ["React", "Node.js", "MongoDB", "Express"],
-        githuburl: "https://github.com/example/ecommerce",
-        liveurl: "https://ecommerce-demo.com"
+        githuburl: "https://github.com/ehtshamul/Personal-Portfolio",
+        liveurl: "https://github.com/ehtshamul/Personal-Portfolio"
     },
     {
         title: "Task Management App",

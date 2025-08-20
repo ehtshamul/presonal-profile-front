@@ -11,34 +11,45 @@ const DEMO_DATA = {
     projects: [
         {
             _id: '1',
-            title: 'E-Commerce Platform',
-            description: 'A full-stack e-commerce platform built with React and Node.js',
+            title: 'Paradise-Nursery',
+            description: 'A full-stack e-🌿 E-Plant Shopping – Paradise Nursery A modern, responsive React + Redux e-commerce app for buying premium houseplants. Features include category filtering, dynamic cart management, real-time pricing, and smooth navigation. Built with Vite for fast performance and deployed on GitHub Pages. platform built with React and Node.js',
             technologies: ['React', 'Node.js', 'MongoDB', 'Express'],
-            githubUrl: 'https://github.com/example/ecommerce',
-            liveUrl: 'https://ecommerce-demo.com',
-            imageUrl: 'https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&w=600',
+            githubUrl: 'https://github.com/ehtshamul/Paradise-Nursery',
+            liveUrl: 'https://paradise-nursery-chi-green.vercel.app/',
+            imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgzkh4wU6az_xjG38P4LsPok1C85QsutUPUA&s',
             featured: true,
-            createdAt: '2024-01-15T10:30:00Z'
+            createdAt: '2025-01-15T10:30:00Z'
         },
         {
             _id: '2',
-            title: 'Task Management App',
-            description: 'A collaborative task management application with real-time updates',
+            title: 'Conference-Expense-Planner',
+            description: ' A React-based conference event planner app for selecting venues, audio-visual equipment, and catering services. Users can customize event options, manage selections in a cart, and view total costs for streamlined event planning and budgeting. task management application with real-time updates',
             technologies: ['Vue.js', 'Firebase', 'Tailwind CSS'],
-            githubUrl: 'https://github.com/example/taskapp',
-            liveUrl: 'https://taskapp-demo.com',
-            imageUrl: 'https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&w=600',
+            githubUrl: 'https://github.com/ehtshamul/Conference-Expense-Planner',
+            liveUrl: 'https://github.com/ehtshamul/Conference-Expense-Planner',
+            imageUrl: 'https://uizard.io/static/3f1bff9987b27f5d05d134f968a1a272/a8e47/639033cd24f9db1a485711dfe5d0f8321b3a36a6-1440x835.png',
             featured: false,
             createdAt: '2024-01-10T14:20:00Z'
         },
         {
             _id: '3',
-            title: 'Weather Dashboard',
+            title: 'E-Commerce-Add-to-cart-',
             description: 'Real-time weather information with interactive charts and maps',
             technologies: ['JavaScript', 'Chart.js', 'OpenWeather API'],
-            githubUrl: 'https://github.com/example/weather',
-            liveUrl: 'https://weather-demo.com',
-            imageUrl: 'https://images.pexels.com/photos/574077/pexels-photo-574077.jpeg?auto=compress&cs=tinysrgb&w=600',
+            githubUrl: 'https://github.com/ehtshamul/E-Commerce-Add-to-cart-',
+            liveUrl: 'https://github.com/ehtshamul/E-Commerce-Add-to-cart-',
+            imageUrl: 'https://cdn.pixabay.com/photo/2019/10/07/12/08/online-shopping-4532460_640.jpg',
+            featured: true,
+            createdAt: '2024-01-05T09:15:00Z'
+        },
+        {
+            _id: '3',
+            title: 'Fast_Food_POS',
+            description: 'this is fast food pOs in html css and java script and Bootstrap',
+            technologies: ['JavaScript', 'Chart.js', 'OpenWeather API'],
+            githubUrl: 'https://github.com/ehtshamul/Fast_Food_POS',
+            liveUrl: 'https://ehtshamul.github.io/Fast_Food_POS/',
+            imageUrl: 'https://cdn.pixabay.com/photo/2019/10/07/12/08/online-shopping-4532460_640.jpg',
             featured: true,
             createdAt: '2024-01-05T09:15:00Z'
         }
@@ -46,8 +57,8 @@ const DEMO_DATA = {
     blogs: [
         {
             _id: '1',
-            title: 'Getting Started with React Hooks',
-            excerpt: 'Learn how to use React Hooks to manage state and side effects in functional components.',
+            title: 'Fast_Food_POS',
+            excerpt: 'this is fast food pOs in html css and java script and Bootstrap',
             content: 'React Hooks are a powerful feature that allows you to use state and other React features in functional components...',
             author: 'John Doe',
             tags: ['React', 'JavaScript', 'Frontend'],
